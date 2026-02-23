@@ -6,7 +6,7 @@ import phone from '../assets/contacts/Phone.png'
 const Date_Time = () => {
   return (
     <div className="Date_Time_Container">
-          <h2>Party Details</h2>
+          <h2>Event Details</h2>
         <div className="Date_Time_Details">
             <h3>Date & Time</h3>
             <div className="full_view">
